@@ -20,6 +20,7 @@ This repository contains a TensorFlow/Keras implementation of a **VGG16-based cl
 The dataset is downloaded from Kaggle: [Dog and Cat Classification Dataset](https://www.kaggle.com/bhavikjikadara/dog-and-cat-classification-dataset).  
 It is split into training and testing sets with an 80:20 ratio.
 
+```
 PetImages/
 ├── train/
 │ ├── Cat/
@@ -27,7 +28,7 @@ PetImages/
 └── test/
 ├── Cat/
 └── Dog/
-
+```
 
 ---
 
