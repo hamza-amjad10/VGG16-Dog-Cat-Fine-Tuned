@@ -84,4 +84,5 @@ This project is a demonstration of transfer learning and fine-tuning using VGG16
 ## Author
 
 Hamza Amjad
+
 AI, Machine Learning, NLP & Deep Learning Enthusiast
