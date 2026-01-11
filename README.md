@@ -62,7 +62,7 @@ PetImages/
 ## How to Improve
 
 1. **Data Augmentation**
-  
+```
    from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
    train_datagen = ImageDataGenerator(
@@ -75,7 +75,13 @@ PetImages/
        horizontal_flip=True,
        fill_mode='nearest'
    )
-
+```
 ## Conclusion
 
 This project is a demonstration of transfer learning and fine-tuning using VGG16. It clearly shows overfitting on a small dataset and highlights the techniques (augmentation, dropout, batch normalization) that can help improve generalization.
+
+
+## Author
+
+Hamza Amjad
+AI, Machine Learning, NLP & Deep Learning Enthusiast
